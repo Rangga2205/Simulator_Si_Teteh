@@ -25,9 +25,9 @@ itch.io : https://ranggayupis.itch.io/cafe-si-teteh
 | Design | 80 Minutes |
 | AI Customer and Helper |  200 Minutes |
 
-Vasco Nelson : Game Artist
-Rangga Yudhistira Putranto : Game Programmer
-Naufal Hafizh Aria Bangun : Game Designer
+- Vasco Nelson : Game Artist
+- Rangga Yudhistira Putranto : Game Programmer
+- Naufal Hafizh Aria Bangun : Game Designer
 
 ## 📜Scripts and Features
 Rating System :
