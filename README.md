@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/b1eafff4-59fe-459d-8bb5-a0e84017442a" width="600" height="300">
+<img src="https://github.com/user-attachments/assets/b1eafff4-59fe-459d-8bb5-a0e84017442a" width="1080" height="900">
+
 ## 🔴 About
 
 This is a simulation game of **Cafe Si Teteh** that needs to be managed telling about the successor of the grandfather's business with Si Teteh developing her cafe business.
