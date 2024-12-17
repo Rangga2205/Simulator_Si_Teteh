@@ -49,8 +49,8 @@ Lose condition: Rating below -0.9
 ```
 ├── Cafe Si Teteh                      # In this Folder, containing all the Unity project files, to be opened by a Editor
    ├── Assets                         #  In this Folder, it contains all our Script, AssetsPack, scenes, animation, prefabs, particel, TimeLine
-        ├──asset
-              ├──TerrainSampleAsset                # In this folder, there packages terrain
+        ├──PlayMaker PathFinding
+              ├──Navmesh               # In this folder, NavMesh PathFinding
       ├── Scenes                     # In this folder, there are scenes. You can open these scenes to play the game via Unity
       ├── ....
    ├── ...
